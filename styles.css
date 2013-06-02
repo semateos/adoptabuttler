@@ -1,9 +1,9 @@
 body{
-	background: #333;
+	background: #fff;
 	margin: 50px;
 	text-align: center;
 	font-family: "Trebuchet MS";
-	color: #fff;
+	color: #333;
 }
 
 #container{
@@ -11,6 +11,10 @@ body{
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
+}
+
+img{
+	border-radius: 5px;
 }
 
 a{
