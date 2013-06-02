@@ -2,7 +2,7 @@ body{
 	background: #fff;
 	margin: 50px;
 	text-align: center;
-	font-family: "Trebuchet MS";
+	font-family: "Georgia";
 	color: #333;
 }
 
@@ -18,7 +18,7 @@ img{
 }
 
 a{
-	color: #cfff13;
+	color: #3cb1db;
 }
 
 a:hover{
